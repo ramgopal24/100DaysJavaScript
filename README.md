@@ -1,5 +1,4 @@
-# aCodeAday
-Objective : A Code A Day
+Objective : One Day at a Time in 100 Days the Objectiv is to achive Mastery of JavaScript
 
 "My goal for the 100 Days of Coding in JavaScript challenge is to achieve mastery in JavaScript. Although I am proficient in using JavaScript frameworks like Nuxt 3, along with Node.js and MySQL databases, I aim to reduce my dependence on frameworks and AI tools for coding. I have also made this repository public so that anyone can contribute to it and also learn from it.
 
